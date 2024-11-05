@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilizuapi.github.io/NBU/sitemap_index.txt
+Sitemap: https://ilizuapi.github.io/QDv/sitemap_index.txt
+Sitemap: https://ilizuapi.github.io/qNC/sitemap_index.txt
+Sitemap: https://ilizuapi.github.io/wSB/sitemap_index.txt
